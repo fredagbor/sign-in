@@ -56,3 +56,9 @@ a{
     text-decoration: none;
     color: #6F2CF4;
 }
+
+@media (max-width: 423px) {
+    .container{
+        width: 300px;
+    }
+}
